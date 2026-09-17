@@ -155,4 +155,8 @@ Built using React and FastAPI with computer vision and AI technologies including
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://anya-siri.github.io/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-4F63D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
 </div>
