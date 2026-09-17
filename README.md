@@ -111,7 +111,9 @@ Built an interactive analytics dashboard for nonprofit impact metrics using **SQ
 
 `SQL` `Data Analysis` `Data Visualization` `KPI Reporting` `Plotly`
 
-🔗 **Repository coming soon**
+<a href="https://github.com/anya-siri/Data4Impact-Dashboard">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/>
 
