@@ -125,7 +125,9 @@ Used prompt templates and AI-assisted development tools to accelerate analysis, 
 
 `Python` `SQL` `Generative AI` `Data Analysis` `Data Quality`
 
-🔗 **Repository coming soon**
+<a href="https://github.com/anya-siri/AI-assisted-analytics-workflow">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/>
 
